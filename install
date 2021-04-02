@@ -19,7 +19,7 @@ sudo apt-get install libstdc++6 -y
 sudo apt-get install lua-lgi -y
 sudo apt-get install libnotify-dev -y
 sudo chmod +x tg
-lua MICA.lua
+lua DRAGON.lua
 sudo chmod +x MICA
 sudo chmod +x ./DRG
 ./DRG
